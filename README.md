@@ -14,6 +14,7 @@ Welcome to my GitHub profile! I am passionate about the intersection of Artifici
 ## 🛠️ Tech Stack & Tools
 
 **Languages & Core Tech:**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-8A2BE2?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-0000FF?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -36,5 +37,5 @@ Welcome to my GitHub profile! I am passionate about the intersection of Artifici
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0000FF?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/raz-natanzon)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0000FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raz-natanzon)
 [![Email](https://img.shields.io/badge/Email-FF1493?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Raz34900@gmail.com)
