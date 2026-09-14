@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I am passionate about the intersection of Artifici
 * 🔐 **[SecureSign](https://github.com/raz34900/SecureSign):** A deep learning architecture designed for digital signature forgery detection. The system utilizes Siamese Neural Networks and contrastive loss for high-accuracy image verification and preprocessing.
 * 📱 **[Integrated Software Engineering](https://github.com/raz34900/Integrated-Software-Engineering):** A cross-platform client application developed using Flutter and Dart. The project was managed using Agile methodology, executing weekly sprints via Trello to demonstrate modern mobile UI/UX and robust software engineering principles.
 * 📊 **[Final Project PL](https://github.com/raz34900/Finall_Project_PL):** A comprehensive project focusing on Programming Languages (PL) concepts, paradigms, and architectural implementation.
-* 👾 **[AI Game Project](https://github.com/raz34900/AI_Game_Project):** A 2D tactical combat simulation built in Unity, featuring fully autonomous NPCs driven by Finite State Machines (FSM), A* Pathfinding, and dynamic safety mapping.
+* 👾 **[AI Game Project](https://github.com/raz34900/AI_Game_Project):** A 2D tactical combat simulation built in VS, featuring fully autonomous NPCs driven by Finite State Machines (FSM), A* Pathfinding, and dynamic safety mapping.
 
 ## 📫 Let's Connect
 
