@@ -29,11 +29,14 @@ Welcome to my GitHub profile! I am passionate about the intersection of Artifici
 
 ## 📌 Featured Projects
 
-* 👑 **[Royal Rescue](https://github.com/raz34900/Royal_Rescue_Unity):** A 3D princess rescue game developed in Unity, featuring interactive NPCs governed by advanced AI logic, pathfinding algorithms, and state management.
-* 🔐 **[SecureSign](https://github.com/raz34900/SecureSign):** A deep learning architecture designed for digital signature forgery detection. The system utilizes Siamese Neural Networks and contrastive loss for high-accuracy image verification and preprocessing.
-* 📱 **[Integrated Software Engineering](https://github.com/raz34900/Integrated-Software-Engineering):** A cross-platform client application developed using Flutter and Dart. The project was managed using Agile methodology, executing weekly sprints via Trello to demonstrate modern mobile UI/UX and robust software engineering principles.
-* 📊 **[Final Project PL](https://github.com/raz34900/Finall_Project_PL):** A comprehensive project focusing on Programming Languages (PL) concepts, paradigms, and architectural implementation.
-* 👾 **[AI Game Project](https://github.com/raz34900/AI_Game_Project):** A 2D tactical combat simulation built in VS, featuring fully autonomous NPCs driven by Finite State Machines (FSM), A* Pathfinding, and dynamic safety mapping.
+* **[Royal Rescue](https://github.com/raz34900/Royal_Rescue_Unity):** A 3D princess rescue game developed in Unity, featuring interactive NPCs governed by advanced AI logic, pathfinding algorithms, and state management.
+* **[SecureSign](https://github.com/raz34900/SecureSign):** A deep learning architecture designed for digital signature forgery detection. The system utilizes Siamese Neural Networks and contrastive loss for high-accuracy image verification and preprocessing.
+* **[Integrated Software Engineering](https://github.com/raz34900/Integrated-Software-Engineering):** A cross-platform client application developed using Flutter and Dart. The project was managed using Agile methodology, executing weekly sprints via Trello to demonstrate modern mobile UI/UX and robust software engineering principles.
+* **[Final Project PL](https://github.com/raz34900/Finall_Project_PL):** A comprehensive project focusing on Programming Languages (PL) concepts, paradigms, and architectural implementation.
+* **[AI Game Project](https://github.com/raz34900/AI_Game_Project):** A 2D tactical combat simulation built in VS, featuring fully autonomous NPCs driven by Finite State Machines (FSM), A* Pathfinding, and dynamic safety mapping.
+  
+* **Crowd Anomaly Detection (ML): Python | CLIP | YOLOv8 | MLP** - A multi-modal fusion system detecting abnormal behavior in surveillance videos by merging CLIP's semantic features with YOLOv8's physical dynamics.
+* **Object Detection (Computer Vision): Python | YOLOv8m | Florence-2** - A custom dataset and YOLOv8m model for real-time human and animal detection on edge devices, built using Florence-2 automated annotations.
 
 ## 📫 Let's Connect
 
