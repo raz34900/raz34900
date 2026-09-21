@@ -38,6 +38,11 @@ Welcome to my GitHub profile! I am passionate about the intersection of Artifici
 * **Crowd Anomaly Detection (ML): Python | CLIP | YOLOv8 | MLP** - A multi-modal fusion system detecting abnormal behavior in surveillance videos by merging CLIP's semantic features with YOLOv8's physical dynamics.
 * **Object Detection (Computer Vision): Python | YOLOv8m | Florence-2** - A custom dataset and YOLOv8m model for real-time human and animal detection on edge devices, built using Florence-2 automated annotations.
 
+**Awards:**
+
+* **3rd Place in Albert Einstein Hackathon (2025): Platform analyzing classroom social dynamics.**
+* **2nd Place in Afeka Hackathon (2024): AI-based system for simulating timed exams.**
+
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0000FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raz-natanzon)
